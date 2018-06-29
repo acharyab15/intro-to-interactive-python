@@ -1,4 +1,5 @@
 # Particle class example used to simulate diffusion of molecules
+# http://www.codeskulptor.org/#user44_fyuMuUGh1J9nahN.py
 
 import simplegui
 import random
